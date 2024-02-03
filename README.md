@@ -1,5 +1,5 @@
-# Daily Running Distance Measurement Application
-It is a console application that, based on the running information provided by the user, calculates the total running distance and the time taken to complete each running lap. At the end of the run, it organizes the laps based on the running speed and presents them to the user.
+# Günlük Koşu Mesafesi Ölçme Uygulaması
+Kullanıcıdan alınan koşu bilgilerine göre, toplam koşu mesafesini ve kullanıcının her bir koşu turunu ne kadar sürede bitirdiğini hesaplayıp koşu bitiminde turları koşu hızına göre sıralayıp kullanıcıya sunan bir console uygulamasıdır.
 
 ![img1](https://github.com/harxite/GunlukKosuMesafesiOlcenUygulama/blob/master/images/5.1.PNG)
 
